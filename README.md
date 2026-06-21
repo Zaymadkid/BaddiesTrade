@@ -1,0 +1,2 @@
+# BaddiesTrade
+Baddies trade script
