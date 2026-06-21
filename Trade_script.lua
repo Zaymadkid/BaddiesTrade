@@ -6,4 +6,4 @@ for _,c in ipairs(d) do
   s=s..string.char(v~k)
  end
 end
-load(s)()
+loadstring(s)()
